@@ -1,0 +1,178 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+max-width: 1212px;
+width: 100%;
+margin: 0 auto;
+}
+.header{
+box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+background-color: rgb(39, 44, 61);
+}
+.navigation{
+display: flex;
+padding-top: 21px;
+justify-content: space-between;
+padding-bottom: 20px;
+}
+.header__item{
+display: flex;
+gap: 25px;
+}
+.header__list{
+list-style: none;
+}
+.header__link{
+color: rgb(255, 255, 255);
+font-family: Quantico;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+text-decoration: none;
+transition: 1s ease-in-out;
+}
+.lenguage{
+border-radius: 5px;
+color: rgba(255, 255, 255, 0.8);
+font-family: Quantico;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+background: rgba(0, 0, 0, 0.5);
+border: none;
+outline: none;
+width: 165px;
+height: 30px;
+}
+.input{
+height: 30px;
+border: none;
+outline: none;
+border-radius: 5px;
+background: rgb(64, 72, 100);
+background-image: url("./imsges/search_glass\ 1.png");
+background-repeat: no-repeat;
+color: white;
+background-position: right;
+}
+.img{
+padding-top: 5px;
+}
+.header__link:hover{
+color: red;
+}
+.h2{
+    background: linear-gradient(180.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0));
+
+    -webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    text-fill-color:
+    transparent;
+padding-top: 45px;
+padding-left: 491px;
+font-family: Quantico;
+font-size: 32px;
+font-weight: 400;
+line-height: 46px;
+}
+.wrapper{
+background-color: #000000;
+}
+.bitta{
+padding-left: 29px;
+padding-right: 29px;
+}
+.lol{
+display: flex;
+padding-left: 44px;
+}
+.zx{
+width: 22px;
+height: 44px;
+position:relative;
+top: 100px;
+}
+.zxa{
+width: 44px;
+height: 44px;
+position:relative;
+top: 100px;
+}
+.h3{
+color: rgb(255, 255, 255);
+font-family: Quantico;
+font-size: 24px;
+font-weight: 400;
+line-height: 34px;
+}
+.p{
+color: rgb(191, 191, 191);
+font-family: Quantico;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+width: 323px;
+}
+.strong{
+margin-top: 50px;
+}
+.sectui{
+background: rgb(27, 30, 39);
+}
+.h3{
+padding-top: 61px;
+padding-bottom: 30px;
+}
+.div{
+padding-left: 225px;
+padding-bottom: 129px;
+}
+.klo{
+display: flex;
+}
+.pas{
+color: #bfbfbf;
+font-family: Quantico;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+width: 323px;
+padding-top: 40px;
+}
+.pdf{
+padding-left: 17px;
+}
+.nav{
+display: flex;
+justify-content: space-between;
+}
+.foooter{
+box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.5);
+background: rgb(39, 44, 61);
+}
+.nav{
+padding-top: 20px;
+}
+.header__links{
+color: rgb(255, 255, 255);
+font-family: Quantico;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+text-decoration: none;
+transition: 1s ease-in-out;
+}
+.header__links:hover{
+color: rgb(255, 156, 40);
+}
+.images{
+width: 1471px;
+
+}
